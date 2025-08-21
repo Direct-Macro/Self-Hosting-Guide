@@ -3352,6 +3352,7 @@ Home Assistant integrations. Credit: [Home Assistant](https://www.home-assistant
  * [Network Switches & Hubs on ebay](https://www.ebay.com/b/Enterprise-Network-Switches-Hubs/182091/bn_887002)
  * [Server Monkey](https://www.servermonkey.com/servers.html)
  * [The Server Store](https://www.theserverstore.com/)
+ * [DirectMacro](https://directmacro.com/storage-devices/storage/internal-hard-drives/server-hard-drive.html)
  
 
 #### CPUs
